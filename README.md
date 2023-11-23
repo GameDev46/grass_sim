@@ -1,6 +1,6 @@
 # grass_sim
 
-A basic field scene created in THREE.js
+An experiment into the simulation of basic grass and its behaviours in THREE.js
 
 # What is this?
 
