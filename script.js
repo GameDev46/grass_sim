@@ -225,7 +225,7 @@ function loadTrees() {
 
 	let loader = new GLTFLoader();
 
-	loader.load('/oak_trees/scene.gltf', function(gltf) {
+	loader.load('./oak_trees/scene.gltf', function(gltf) {
 
 		let mesh = gltf.scene.children[0];
 
