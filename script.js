@@ -21,15 +21,15 @@
 
 //import {PointerLockControls} from 'https://threejs.org/examples/jsm/controls/PointerLockControls.js'
 
-import * as THREE from '../three/three.module.min.js';
+import * as THREE from './three/three.module.min.js';
 
-import { PointerLockControls } from '/three/PointerLockControls.js';
+import { PointerLockControls } from './three/PointerLockControls.js';
 
-import { GLTFLoader } from '../three/GLTFLoader.js';
+import { GLTFLoader } from './three/GLTFLoader.js';
 
-import { Sky } from '/three/sky.js';
+import { Sky } from './three/sky.js';
 
-import { vertexShader, fragmentShader } from '/three/grassShader.js';
+import { vertexShader, fragmentShader } from './three/grassShader.js';
 
 //import { GLTFLoader } from '/three/GLTFLoader.js';
 
@@ -70,13 +70,13 @@ keyboard = {}
 let sceneLoader = new THREE.TextureLoader();
 
 let textureLoader = {
-	grassTuft: sceneLoader.load('/textures/grass.png'),
-	grassTuftAlpha2: sceneLoader.load('/textures/grassTuftAlpha2.png'),
-	waterNormal: sceneLoader.load('/textures/waterNormal.png'),
+	grassTuft: sceneLoader.load('./textures/grass.png'),
+	grassTuftAlpha2: sceneLoader.load('./textures/grassTuftAlpha2.png'),
+	waterNormal: sceneLoader.load('./textures/waterNormal.png'),
 }
 
 let groundTextures = {
-	texture: sceneLoader.load('/textures/ground.png')
+	texture: sceneLoader.load('./textures/ground.png')
 }
 
 function init() {
