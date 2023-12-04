@@ -1,6 +1,6 @@
 <a href="https://github.com/GameDev46" title="Go to GitHub repo">
     <img src="https://img.shields.io/static/v1?label=GameDev46&message=Profile&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - grass_sim">
-    <img src="https://img.shields.io/badge/Version-1.1.7-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - grass_sim">
+    <img src="https://img.shields.io/badge/Version-1.4.5-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - grass_sim">
 </a>
 
 
