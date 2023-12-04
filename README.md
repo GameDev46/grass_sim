@@ -57,10 +57,10 @@ This is a simple field scene setup in THREE.js that can be run on the web! It fo
 # Screenshots
 
 <p>
-    <img src="https://github.com/GameDev46/grass_sim/assets/76485006/0ca6a446-62fb-402c-9316-ac7c1b24de6c" width="500">
-    <img src="https://github.com/GameDev46/grass_sim/assets/76485006/f2e5c9d5-e9e9-4a66-a876-0a88c66c76dd" width="500">
-    <img src="https://github.com/GameDev46/grass_sim/assets/76485006/786622c6-1562-4c16-b92d-66463473dec1" width="500">
-    <img src="https://github.com/GameDev46/grass_sim/assets/76485006/0407fbcf-6ac9-4d51-b1bb-b97cc3457a1e" width="500">
+    <img src="https://github.com/GameDev46/grass_sim/assets/76485006/0ca6a446-62fb-402c-9316-ac7c1b24de6c" width="400">
+    <img src="https://github.com/GameDev46/grass_sim/assets/76485006/f2e5c9d5-e9e9-4a66-a876-0a88c66c76dd" width="400">
+    <img src="https://github.com/GameDev46/grass_sim/assets/76485006/786622c6-1562-4c16-b92d-66463473dec1" width="400">
+    <img src="https://github.com/GameDev46/grass_sim/assets/76485006/0407fbcf-6ac9-4d51-b1bb-b97cc3457a1e" width="400">
 </p>
 
 # Wesbite
