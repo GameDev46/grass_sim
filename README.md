@@ -1,12 +1,12 @@
 <a href="https://github.com/GameDev46" title="Go to GitHub repo">
-    <img src="https://img.shields.io/static/v1?label=GameDev46&message=Profile&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - grass_sim">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=|&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - grass_sim">
     <img src="https://img.shields.io/badge/Version-1.4.5-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - grass_sim">
 </a>
 
 
-![Static Badge](https://img.shields.io/badge/-HTML5-1f1f22?style=for-the-badge&logo=HTML5)
-![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
-![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=HTML5)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=JavaScript)
     
 <a href="https://github.com/GameDev46/grass_sim/stargazers">
     <img src="https://img.shields.io/github/stars/GameDev46/grass_sim?style=for-the-badge&labelColor=1f1f22" alt="stars - grass_sim">
@@ -17,17 +17,6 @@
 <a href="https://github.com/GameDev46/grass_sim/issues">
     <img src="https://img.shields.io/github/issues/GameDev46/grass_sim?style=for-the-badge&labelColor=1f1f22&color=blue"/>
  </a>
-
-<br>
-<br>
-
-<a href="https://github.com/GameDev46/grass_sim/releases/">
-    <img src="https://img.shields.io/github/tag/GameDev46/grass_sim?include_prereleases=&sort=semver&color=Green&style=for-the-badge&labelColor=1f1f22" alt="GitHub tag">
-</a>
-
-<a href="https://github.com/GameDev46/grass_sim/issues">
-    <img src="https://img.shields.io/github/issues/GameDev46/grass_sim?style=for-the-badge&labelColor=1f1f22" alt="issues - grass_sim">
-</a>
 
 <br>
 <br>
@@ -62,7 +51,3 @@ This is a simple field scene setup in THREE.js that can be run on the web! It fo
     <img src="https://github.com/GameDev46/grass_sim/assets/76485006/786622c6-1562-4c16-b92d-66463473dec1" width="400">
     <img src="https://github.com/GameDev46/grass_sim/assets/76485006/0407fbcf-6ac9-4d51-b1bb-b97cc3457a1e" width="400">
 </p>
-
-# Wesbite
-
-You can run the program in realtime [here, on its website](https://gamedev46.github.io/grass_sim) as it is programmed using HTML, CSS, JS and GLSL which is implemented using the WebGL shader library
