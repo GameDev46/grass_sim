@@ -36,11 +36,11 @@
 
 # grass_sim
 
-An experiment into the simulation of basic grass and its behaviours in THREE.js
+An experiment into the simulation of basic grass in THREE.js
 
-# What is this?
+# About
 
-This is a simple field scene setup in THREE.js that can be run on the web! It focuses heavily on the rendering of grass along with a modified grass sway shader to try to replicate the behaviours of real life grass and also contains a grass LOD (Level of detail) system that changes the mesh depending on how far from the camera it currently is to boost performance
+This is a demo of a grass rendering system built with THREE.js which can be used for large terrains. It groups together local areas into "chunks" where each chunk's level of detail and grass density is determined by the distance between it and the camera allowing the simulation to run at a reasonable FPS.
 
 # Screenshots
 
